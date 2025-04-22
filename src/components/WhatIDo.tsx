@@ -90,8 +90,7 @@ const WhatIDo = () => {
               <h3>DEVELOP</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae.
+                I know how to code
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
@@ -105,6 +104,7 @@ const WhatIDo = () => {
                 <div className="what-tags">Express.js</div>
                 <div className="what-tags">PHP</div>
                 <div className="what-tags">MySql</div>
+                <div className="what-tags">HTML</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -131,8 +131,7 @@ const WhatIDo = () => {
               <h3>DESIGN</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae
+      I know how to design
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
@@ -144,6 +143,7 @@ const WhatIDo = () => {
                 <div className="what-tags">3D Animation</div>
                 <div className="what-tags">Character Design</div>
                 <div className="what-tags">Modelling</div>
+                <div className="what-tags">Wick Editor</div>
               </div>
               <div className="what-arrow"></div>
             </div>
