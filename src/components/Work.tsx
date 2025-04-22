@@ -55,8 +55,8 @@ const Work = () => {
                   <h3>0{index + 1}</h3>
 
                   <div>
-                    <h4>Project Name</h4>
-                    <p>Category</p>
+                    <h4>This website</h4>
+                    <p>A portfolio</p>
                   </div>
                 </div>
                 <h4>Tools and features</h4>
