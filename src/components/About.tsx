@@ -6,7 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-         I am a very good person living in the United Kingdom
+         I am a very good designer and developer living in the United Kingdom
         </p>
       </div>
     </div>
